@@ -1,0 +1,8 @@
+Taban = int(input("Tabanı girin:"))
+Üs = int(input("Üssü girin:"))
+
+
+# Bu kısımda değişiklik yapmayın
+sonuç = Taban ** Üs
+print(sonuç)
+# Bu kısımda değişiklik yapmayın
